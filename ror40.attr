@@ -1,0 +1,2 @@
+%__ror40_requires	echo -n "%{?scl_runtime}"
+%__ror40_path		%{?scl:^%{_scl_prefix}/.*$}
